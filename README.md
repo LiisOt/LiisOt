@@ -1,2 +1,2 @@
 ## Hi there 👋
-I am a student  at LAB University of Applied Sciences. 
+*italic text* >  My name is Liis Otsatalu and I am a student  at LAB University of Applied Sciences. 
